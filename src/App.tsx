@@ -19,7 +19,7 @@ function App(): JSX.Element {
                 <b>Made by Robert Oratorio</b>
             </header>
             <hr></hr>
-            {/* <DoubleHalf></DoubleHalf> */}
+            <DoubleHalf></DoubleHalf>
             <hr></hr>
             <ChooseTeam></ChooseTeam>
             <hr></hr>
